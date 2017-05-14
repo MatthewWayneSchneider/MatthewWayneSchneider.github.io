@@ -28,7 +28,6 @@ header {
 
 nav {
   background-color: black;
-
   float: left;
 }
 
@@ -37,6 +36,7 @@ nav ul {
   float: left;
   border-bottom: ;
   list-style-type: none;
+  width: 760px;
 }
 
 nav li {
