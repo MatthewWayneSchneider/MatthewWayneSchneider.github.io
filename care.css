@@ -21,8 +21,10 @@ body {
 header {
   background-color: ;
   padding: 5px;
-  font-size: ;
+  font-size: 20px;
   display: block;
+  text-align: center;
+  height: 50;
 }
 
 nav {
