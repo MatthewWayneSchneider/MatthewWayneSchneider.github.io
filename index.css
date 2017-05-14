@@ -48,6 +48,11 @@ nav li a {
   vertical-align: middle;
 }
 
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
 h1 {
   text-align: center;
 }
@@ -80,9 +85,4 @@ footer {
   color:;
   clear: both;
   display: block;
-}
-
-img {
-  max-width: 100%;
-  vertical-align: middle;
 }
