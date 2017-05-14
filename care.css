@@ -47,7 +47,7 @@ nav li {
 
 nav li a {
   font: ;
-  font-size: 18px;
+  /**height: 15px;*/
   display: block;
   height: 15px;
   padding: 5px 80px 8px 20px;
